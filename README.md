@@ -16,7 +16,7 @@ Each challenge is located at its own endpoint and has instructions in its own `c
 Once your server is running, visit: `http://localhost:3000/challenges/` for the list of challenges.
 * See `/challenges/1/challenge.js` for challenge #1's instructions (there are 7 numbered folders).
 * Each challenge builds off of the last. Read the commented instructions carefully.
-* We expect you to be resourceful! So make sure to [hit the Express docs](expressjs.com/4x/api.html)!
+* We expect you to be resourceful! So make sure to [hit the Express docs](https://expressjs.com/4x/api.html)!
 
 > All quotes are by [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis).
 
